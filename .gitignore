@@ -1,0 +1,5 @@
+source/.idea/
+source/backend/target/
+source/frontend/target/
+source/data/target/
+source/target/
